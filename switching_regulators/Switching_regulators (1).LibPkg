@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GGIGIMCT
 
 [Document3]
-DocumentPath=C:\Users\rodyn\Downloads\UA7810CKTTR (1)\UA7810CKTTR\Linear Regulator_UA7810CKTTR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UAJNINUO
-
-[Document4]
 DocumentPath=C:\Users\rodyn\Downloads\UA7810CKTTR (1)\UA7810CKTTR\Linear Regulator_UA7810CKTTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,6 +99,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YXOCUJWV
+
+[Document4]
+DocumentPath=C:\Users\rodyn\Downloads\UA7810CKTTR (1)\UA7810CKTTR\Linear Regulator_UA7810CKTTR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAJNINUO
 
 [OutputGroup1]
 Name=Netlist Outputs
