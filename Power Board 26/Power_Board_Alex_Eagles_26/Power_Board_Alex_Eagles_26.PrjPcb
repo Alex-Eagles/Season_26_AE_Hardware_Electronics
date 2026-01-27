@@ -104,23 +104,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VCNGTTBL
 
 [Document4]
-DocumentPath=Digital_Logic_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BUFLRZEA
-
-[Document5]
 DocumentPath=Motor_Power_and_EMF_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,6 +119,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNUJQMIL
+
+[Document5]
+DocumentPath=Digital_Logic_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUFLRZEA
 
 [Document6]
 DocumentPath=Sheet3.SchDoc
