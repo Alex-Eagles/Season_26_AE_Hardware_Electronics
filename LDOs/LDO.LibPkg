@@ -50,9 +50,12 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+<<<<<<< HEAD
 <<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 DocumentPath=..\Connectors\connectors.PcbLib
 =======
+=======
+>>>>>>> 6450fec3fedd5ad403b9520a95ec4a5dbcf0aa87
 DocumentPath=..\Connectors\History\connectors.~(16).SchLib.Zip
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +74,10 @@ DocumentUniqueId=
 
 [Document2]
 DocumentPath=PcbLib1.PcbLib
+<<<<<<< HEAD
 >>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
+=======
+>>>>>>> 6450fec3fedd5ad403b9520a95ec4a5dbcf0aa87
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -85,8 +91,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OBRDGAWK
+DocumentUniqueId=PTVGPTEK
 
+<<<<<<< HEAD
 <<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 [Document2]
 DocumentPath=..\Connectors\connectors.SchLib
@@ -111,6 +118,10 @@ DocumentPath=..\Connectors\History\connectors.~(16).SchLib.Zip
 [Document3]
 DocumentPath=Schlib1.SchLib
 >>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
+=======
+[Document3]
+DocumentPath=Schlib1.SchLib
+>>>>>>> 6450fec3fedd5ad403b9520a95ec4a5dbcf0aa87
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,11 +135,15 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 <<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 DocumentUniqueId=
 =======
 DocumentUniqueId=XTBJTYYJ
 >>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
+=======
+DocumentUniqueId=XTBJTYYJ
+>>>>>>> 6450fec3fedd5ad403b9520a95ec4a5dbcf0aa87
 
 [OutputGroup1]
 Name=Netlist Outputs
