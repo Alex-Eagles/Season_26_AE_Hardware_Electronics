@@ -50,7 +50,28 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+<<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 DocumentPath=..\Connectors\connectors.PcbLib
+=======
+DocumentPath=..\Connectors\History\connectors.~(16).SchLib.Zip
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
+DocumentPath=PcbLib1.PcbLib
+>>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,6 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OBRDGAWK
 
+<<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 [Document2]
 DocumentPath=..\Connectors\connectors.SchLib
 AnnotationEnabled=1
@@ -85,6 +107,10 @@ DocumentUniqueId=ORFRCVNL
 
 [Document3]
 DocumentPath=..\Connectors\History\connectors.~(16).SchLib.Zip
+=======
+[Document3]
+DocumentPath=Schlib1.SchLib
+>>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +124,11 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD:LDOs/Integrated_Library1.LibPkg
 DocumentUniqueId=
+=======
+DocumentUniqueId=XTBJTYYJ
+>>>>>>> b5fc4183ef62ff0816745e66da43129bfc668962:LDOs/LDO.LibPkg
 
 [OutputGroup1]
 Name=Netlist Outputs
