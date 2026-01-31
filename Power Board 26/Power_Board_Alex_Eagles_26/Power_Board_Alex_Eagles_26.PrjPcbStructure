@@ -1,2 +1,6 @@
-Record=TopLevelDocument|FileName=Main.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=2
+Record=TopLevelDocument|FileName=Digital_Logic_Power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Digital_Logic_Power.SchDoc|FileName=Direct_Battery_Loads.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Digital_Logic_Power.SchDoc|FileName=Input_and_Protection.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Digital_Logic_Power.SchDoc|FileName=Main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Digital_Logic_Power.SchDoc|FileName=Motor_Power_and_EMF_Control.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Digital_Logic_Power.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=6
