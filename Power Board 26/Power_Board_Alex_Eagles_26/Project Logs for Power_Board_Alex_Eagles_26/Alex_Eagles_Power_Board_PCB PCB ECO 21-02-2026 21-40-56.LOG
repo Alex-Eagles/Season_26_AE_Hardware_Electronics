@@ -1,0 +1,24 @@
+Add Component: Footprint Not Found RPA0010A-MFG
+Added Component: Designator=U6(UA7810CKTTR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "UA7810CKTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C131966"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Added Pin To Net: NetName=+12V Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=+10V Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-4
+Add Class Member: Failed to add class member : Component L2 IND_5.6uH
+Add Class Member: Failed to add class member : Component U5 TPS56A37RPAR
+Added Member To Class: ClassName=Motor_Power_and_EMF_Control Member=Component U6 UA7810CKTTR
