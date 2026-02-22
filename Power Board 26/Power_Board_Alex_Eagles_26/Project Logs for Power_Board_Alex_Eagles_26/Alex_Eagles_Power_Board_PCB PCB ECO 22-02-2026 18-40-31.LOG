@@ -1,0 +1,10 @@
+Added Component: Designator=L2(11.5X10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/C5127460.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "LanTu Micro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer part number"; Value = "SMS1050-5R6MT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier part number"; Value = "C5127460"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_2 Pin=L2-1
+Added Pin To Net: NetName=+12V Pin=L2-2
+Added Member To Class: ClassName=Motor_Power_and_EMF_Control Member=Component L2 IND_5.6uH

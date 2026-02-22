@@ -1,0 +1,21 @@
+Added Component: Designator=U5(RPA0010A-MFG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPS56A37RPAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "C22392669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Added Pin To Net: NetName=NetR12_1 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=NetR16_1 Pin=U5-4
+Added Pin To Net: NetName=NetC17_2 Pin=U5-5
+Added Pin To Net: NetName=NetC18_2 Pin=U5-6
+Added Pin To Net: NetName=NetR15_1 Pin=U5-7
+Added Pin To Net: NetName=+VCC Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-9
+Added Pin To Net: NetName=NetR14_2 Pin=U5-10
+Add Class Member: Failed to add class member : Component L2 IND_5.6uH
+Added Member To Class: ClassName=Motor_Power_and_EMF_Control Member=Component U5

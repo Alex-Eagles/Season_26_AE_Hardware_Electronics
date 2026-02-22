@@ -1,0 +1,22 @@
+Add Component: Footprint Not Found RPA0010A-MFG
+Added Pin To Net: NetName=+5V Pin=J4-1
+Added Pin To Net: NetName=+5V Pin=J4-2
+Added Pin To Net: NetName=+3V3_MCU Pin=J4-3
+Added Pin To Net: NetName=+3V3_Sensors Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J4-GND
+Added Pin To Net: NetName=GND Pin=J4-GND
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U5-10
+Add Class Member: Failed to add class member : Component L2 IND_5.6uH
+Add Class Member: Failed to add class member : Component U5 TPS56A37RPAR
