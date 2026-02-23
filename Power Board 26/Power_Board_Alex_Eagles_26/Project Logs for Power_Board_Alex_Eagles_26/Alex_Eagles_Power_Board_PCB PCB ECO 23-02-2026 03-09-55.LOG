@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=+12V Pin=C19-2
+Removed Member From Class: ClassName=Motor_Power_and_EMF_Control Member=C19

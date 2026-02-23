@@ -1,0 +1,6 @@
+Replace Part C1 CAP_100nF in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with CAP_100nF from capacitors.IntLib
+Replace Part D1 BZT52C12S in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with BZT52C12S from Diodes.IntLib
+Replace Part F1 0451020.MRL in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with 0451020.MRL from Fuse.IntLib
+Replace Part J1 XT60PW-M in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with XT60PW-M from Connectors.IntLib
+Replace Part Q1 AO4407A in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with AO4407A from MOSFETs.IntLib
+Replace Part R1 RES_0402_10K in D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\Input_and_Protection.SchDoc with RES_0402_10K from Resistors_new.IntLib

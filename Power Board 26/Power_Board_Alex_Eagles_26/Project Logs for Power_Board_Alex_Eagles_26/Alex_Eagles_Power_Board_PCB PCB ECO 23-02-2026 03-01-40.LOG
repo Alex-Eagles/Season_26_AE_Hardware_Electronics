@@ -1,0 +1,11 @@
+Change Component Comment : Designator=U5 Old Comment= New Comment=TPS56A37RPAR
+Change Component Comment : Designator=Q1 Old Comment=AO4407A New Comment=P-MOS
+Change Component Comment : Designator=L2 Old Comment=IND_5.6uH New Comment=5.6uH
+Change Component Description : Designator=U5 Old Description=4.5V to 28V input, 10A synchronous buck converter 10-VQFN-HR -40 to 150 New Description=Buck Switching Regulator IC Adjustable 0.6V~13V 1 Output 10A VQFN-HR-10(3x3)
+Change component parameters: Designator = "U5" ("U5"); Footprint = "RPA0010A-MFG"; UniqueID = "\DTBRDZRT" ("\DTBRDZRT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C22392669.html?s_z=n_TPS56A37RPAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer part number"; Value = "TPS56A37RPAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "suppllier part number"; Value = "C22392669"; VariantName = "[No Variations]"
