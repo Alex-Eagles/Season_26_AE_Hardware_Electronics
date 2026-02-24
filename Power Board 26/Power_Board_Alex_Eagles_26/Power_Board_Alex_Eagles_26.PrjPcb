@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UNUJQMIL
 
 [Document5]
-DocumentPath=..\lib\VCC_MOT.SchLib
+DocumentPath=lib\VCC_MOT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AMKWJZUZ
 
 [Document6]
-DocumentPath=..\lib\VCC_MOT.PcbLib
+DocumentPath=lib\VCC_MOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
