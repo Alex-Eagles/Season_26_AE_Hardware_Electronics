@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C2 Old Comment=4.7uF New Comment=CAP_4.7uF
+Added Component: Designator=L1(12.3x12.3 - duplicate)
+Added Pin To Net: NetName=NetC3_2 Pin=L1-1
+Added Pin To Net: NetName=+7V Pin=L1-2
+Added Member To Class: ClassName=Digital_Logic_Power Member=Component L1 22uH
