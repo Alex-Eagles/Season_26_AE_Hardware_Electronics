@@ -1,0 +1,16 @@
+Add component: Footprint Not Found CAP_10uF
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Class Member: Failed to add class member : Component C11 10uF
+Added Member To Class: ClassName=Input_and_Protection Member=Component D1 Zener Diode
+Added Member To Class: ClassName=Input_and_Protection Member=Component J1 XT60-M
+Added Member To Class: ClassName=Digital_Logic_Power Member=Component L1 22uH
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
