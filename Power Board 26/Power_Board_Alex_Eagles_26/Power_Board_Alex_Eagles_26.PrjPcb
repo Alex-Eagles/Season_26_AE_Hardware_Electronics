@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BUFLRZEA
 
 [Document4]
+DocumentPath=..\..\..\..\Downloads\Alex_Eagles_Power_Board_PCB (2).PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JKYUCDCV
+
+[Document5]
 DocumentPath=Motor_Power_and_EMF_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNUJQMIL
 
-[Document5]
+[Document6]
 DocumentPath=lib\VCC_MOT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMKWJZUZ
 
-[Document6]
+[Document7]
 DocumentPath=lib\VCC_MOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,23 +167,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLXLDGUD
-
-[Document7]
-DocumentPath=Alex_Eagles_Power_Board_PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ACUCSEAQ
 
 [Configuration1]
 Name=Sources
