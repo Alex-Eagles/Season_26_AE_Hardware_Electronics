@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:35:32 On 13/04/2026
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [DRC_ready.PcbDoc]
+   Generated File[Bill of Materials-DRC_ready.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:35:38 On 13/04/2026

@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BUFLRZEA
 
 [Document4]
-DocumentPath=..\Alex_Eagles_Power_Board_PCB.PcbDoc
+DocumentPath=DRC_ready.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=OPXRUJDA
 
 [Document5]
-DocumentPath=..\..\..\..\Downloads\Alex_Eagles_Power_Board_PCB (2).PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JKYUCDCV
-
-[Document6]
 DocumentPath=Motor_Power_and_EMF_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UNUJQMIL
 
-[Document7]
+[Document6]
 DocumentPath=lib\VCC_MOT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMKWJZUZ
 
-[Document8]
+[Document7]
 DocumentPath=lib\VCC_MOT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,6 +167,18 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SLXLDGUD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Power_Board_Alex_Eagles_26\BOM\Bill of Materials-DRC_ready.csv
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-DRC_ready.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Power_Board_Alex_Eagles_26\Design Rule Check - DRC_ready.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -422,11 +417,6 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Wire Bonding Table
-OutputName4=Wire Bonding Table Report
-OutputDocumentPath4=
-OutputVariantName4=[No Variations]
-OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1089,7 +1079,6 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
-Type154=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
