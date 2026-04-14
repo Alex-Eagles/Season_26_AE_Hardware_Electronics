@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : D:\Seasonprep_repo\Season_26_AE_Hardware_Electronics\Power Board 26\Power_Board_Alex_Eagles_26\DRC_ready.PcbDoc
-Date     : 13/04/2026
-Time     : 15:28:06
+Date     : 14/04/2026
+Time     : 23:58:30
 
-Processing Rule : Clearance Constraint (Gap=0.102mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,84 +15,47 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.102mm) (Max=1816.048mm) (Preferred=0.102mm) (All)
+Processing Rule : Width Constraint (Min=4mil) (Max=71497.938mil) (Preferred=4mil) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.3mm) (Conductor Width=0.102mm) (Air Gap=0.102mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=4mil) (Air Gap=4mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InPadClass('PowerPads'))
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.25mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C27-1(8.2mm,15.25mm) on Top Layer And Track (2mm,15mm)(8.096mm,15mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad C27-1(8.2mm,15.25mm) on Top Layer And Track (8.096mm,15mm)(8.096mm,21.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad D1-1(36.5mm,22.75mm) on Top Layer And Track (36.35mm,22.125mm)(36.35mm,23.375mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad D1-2(34.5mm,22.75mm) on Top Layer And Track (34.65mm,22.125mm)(34.65mm,23.375mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad J4-GND(28.925mm,56.7mm) on Top Layer And Track (28.575mm,53.55mm)(28.575mm,59mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad J4-GND(39.08mm,56.7mm) on Top Layer And Track (39.436mm,53.55mm)(39.436mm,59mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.023mm < 0.102mm) Between Pad J5-1(7.198mm,18.727mm) on Top Layer And Track (8.096mm,15mm)(8.096mm,21.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.023mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.023mm < 0.102mm) Between Pad J5-2(7.198mm,17.477mm) on Top Layer And Track (8.096mm,15mm)(8.096mm,21.5mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.023mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-1(16.49mm,43.65mm) on Bottom Layer And Track (11.787mm,43.439mm)(16.613mm,43.439mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.032mm < 0.102mm) Between Pad U2-1(16.49mm,43.65mm) on Bottom Layer And Track (13.352mm,42.938mm)(16.147mm,42.938mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.032mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.032mm < 0.102mm) Between Pad U2-1(16.49mm,43.65mm) on Bottom Layer And Track (16.147mm,41.56mm)(16.147mm,42.938mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.032mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-1(16.49mm,43.65mm) on Bottom Layer And Track (16.613mm,43.439mm)(16.613mm,50.424mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-2(14.2mm,43.65mm) on Bottom Layer And Track (11.787mm,43.439mm)(16.613mm,43.439mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.032mm < 0.102mm) Between Pad U2-2(14.2mm,43.65mm) on Bottom Layer And Track (13.352mm,42.938mm)(16.147mm,42.938mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0.032mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-3(11.91mm,43.65mm) on Bottom Layer And Track (11.787mm,43.439mm)(11.787mm,50.424mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-3(11.91mm,43.65mm) on Bottom Layer And Track (11.787mm,43.439mm)(16.613mm,43.439mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U2-4(14.2mm,50.34mm) on Bottom Layer And Track (11.787mm,50.424mm)(16.613mm,50.424mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-1(27.71mm,43.595mm) on Bottom Layer And Track (27.587mm,36.821mm)(27.587mm,43.806mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-1(27.71mm,43.595mm) on Bottom Layer And Track (27.587mm,43.806mm)(32.413mm,43.806mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-2(30mm,43.595mm) on Bottom Layer And Track (27.587mm,43.806mm)(32.413mm,43.806mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-3(32.29mm,43.595mm) on Bottom Layer And Track (27.587mm,43.806mm)(32.413mm,43.806mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-3(32.29mm,43.595mm) on Bottom Layer And Track (32.413mm,36.821mm)(32.413mm,43.806mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U3-4(30mm,36.905mm) on Bottom Layer And Track (27.587mm,36.821mm)(32.413mm,36.821mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-1(48.33mm,44.75mm) on Bottom Layer And Track (43.627mm,44.539mm)(48.453mm,44.539mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-1(48.33mm,44.75mm) on Bottom Layer And Track (48.453mm,44.539mm)(48.453mm,51.524mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-2(46.04mm,44.75mm) on Bottom Layer And Track (43.627mm,44.539mm)(48.453mm,44.539mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-3(43.75mm,44.75mm) on Bottom Layer And Track (43.627mm,44.539mm)(43.627mm,51.524mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-3(43.75mm,44.75mm) on Bottom Layer And Track (43.627mm,44.539mm)(48.453mm,44.539mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.102mm) Between Pad U4-4(46.04mm,51.44mm) on Bottom Layer And Track (43.627mm,51.524mm)(48.453mm,51.524mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]
-Rule Violations :29
-
-Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (13.237mm,-5.717mm)(13.237mm,1.983mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (13.237mm,-5.717mm)(26.637mm,-5.717mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (26.637mm,-5.717mm)(26.637mm,1.983mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (34.05mm,-8.75mm)(34.05mm,9.45mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (34.05mm,-8.75mm)(49.55mm,-8.75mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (49.55mm,-8.75mm)(49.55mm,9.45mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (49.889mm,22.25mm)(68.089mm,22.25mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (49.889mm,37.75mm)(68.089mm,37.75mm) on Top Overlay 
-   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.2mm) Between Board Edge And Track (68.089mm,22.25mm)(68.089mm,37.75mm) on Top Overlay 
-Rule Violations :9
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=1816.048mm) (Prefered=12.7mm) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 38
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02

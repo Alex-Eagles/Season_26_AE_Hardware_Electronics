@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=R5 Old Footprint=RES_30K New Footprint=RES_3.9K
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_30K"; UniqueID = "\OVHVFYNM" ("\OVHVFYNM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/datasheet/C23018.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "UNI-ROYAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer part number"; Value = "0603WAF3901T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "supplier part number"; Value = "C23018"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "3.9k"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Digital_Logic_Power Member=Component C11 10uF
+Added Member To Class: ClassName=Digital_Logic_Power Member=Component U4 AMS1117-5.0

@@ -1,0 +1,561 @@
+*************************************************************
+FileName = DRC_ready.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : DRC_ready_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : DRC_ready_Copper_Signal_1.gbr
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : DRC_ready_Copper_Signal_2.gbr
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DRC_ready_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D21
+    D25
+    D26
+    D30
+    D31
+    D32
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DRC_ready_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D21
+    D25
+    D26
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DRC_ready_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DRC_ready_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DRC_ready_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D63
+    D65
+    D67
+    D69
+    D70
+    D72
+    D75
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DRC_ready_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D29
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DRC_ready_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D58
+    D59
+    D60
+    D61
+    D81
+    D85
+    D90
+    D94
+    D95
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DRC_ready_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DRC_ready_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D16
+    D21
+    D25
+    D26
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D60
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DRC_ready_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : DRC_ready_Top_Tenting.gbr
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Bottom Tenting
+      File : DRC_ready_Bottom_Tenting.gbr
+
+    Adding Layer      : Bottom Tenting
+
+
+Used DCodes :
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Top Covering
+      File : DRC_ready_Top_Covering.gbr
+
+    Adding Layer      : Top Covering
+
+
+Used DCodes :
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Bottom Covering
+      File : DRC_ready_Bottom_Covering.gbr
+
+    Adding Layer      : Bottom Covering
+
+
+Used DCodes :
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : DRC_ready_Profile.gbr
+
+
+Used DCodes :
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : DRC_ready_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D121
+    D122
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : DRC_ready_PTH_Drill.gbr
+
+
+Used DCodes :
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DRC_ready_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D70
+    D80
+    D137
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : DRC_ready_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D70
+*************************************************************
+

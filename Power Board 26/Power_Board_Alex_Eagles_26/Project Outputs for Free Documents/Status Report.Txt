@@ -1,14 +1,37 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 16:35:32 On 13/04/2026
+Start Output Generation At 00:00:40 On 15/04/2026
 
-Output: Bill of Materials
-Type  : BOM
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Variant [[No Variations]] of PCB Document [DRC_ready.PcbDoc]
-   Generated File[Bill of Materials-DRC_ready.xlsx]
+   Generated File[DRC_ready_Copper_Signal_Top.gbr]
+   Generated File[DRC_ready_Copper_Signal_1.gbr]
+   Generated File[DRC_ready_Copper_Signal_2.gbr]
+   Generated File[DRC_ready_Copper_Signal_Bot.gbr]
+   Generated File[DRC_ready_Pads_Bot.gbr]
+   Generated File[DRC_ready_Pads_Top.gbr]
+   Generated File[DRC_ready_Legend_Top.gbr]
+   Generated File[DRC_ready_Legend_Bot.gbr]
+   Generated File[DRC_ready_Soldermask_Top.gbr]
+   Generated File[DRC_ready_Soldermask_Bot.gbr]
+   Generated File[DRC_ready_Paste_Top.gbr]
+   Generated File[DRC_ready_Paste_Bot.gbr]
+   Generated File[DRC_ready_Keep-out.gbr]
+   Generated File[DRC_ready_Top_Tenting.gbr]
+   Generated File[DRC_ready_Bottom_Tenting.gbr]
+   Generated File[DRC_ready_Top_Covering.gbr]
+   Generated File[DRC_ready_Bottom_Covering.gbr]
+   Generated File[DRC_ready_Profile.gbr]
+   Generated File[DRC_ready_NPTH_Drill.gbr]
+   Generated File[DRC_ready_PTH_Drill.gbr]
+   Generated File[DRC_ready_Drawing_1.gbr]
+   Generated File[DRC_ready_Drillmap_1.gbr]
+   Generated File[DRC_ready.EXTREP]
+   Generated File[DRC_ready.REP]
 
 
-Files Generated   : 1
+Files Generated   : 24
 Documents Printed : 0
 
-Finished Output Generation At 16:35:38 On 13/04/2026
+Finished Output Generation At 00:00:47 On 15/04/2026
