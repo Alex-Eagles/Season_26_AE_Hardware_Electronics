@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JLPAIKSY
 
 [Document2]
-DocumentPath=Resistors.PcbLib
+DocumentPath=..\..\..\Downloads\Altium footprints, SMD Resistors, 2013-06-08-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LXOVKFQV
+DocumentUniqueId=MYTFPCFU
 
 [SearchPath1]
 Path=C:\Users\seifh\OneDrive\Desktop\BZT52C12S_R9G\*.*
